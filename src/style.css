@@ -2,6 +2,7 @@ body{
     background: #F8E8A6;
 }
 h1{
+    font-size: 48px;
     text-align: center;
 }
 img{
@@ -11,6 +12,8 @@ img{
 }
 p{
     text-align: center;
+    font-size: 18px;
+    padding: 0 24px;
 }
 ul{
     display: block;
@@ -23,4 +26,5 @@ li{
 }
 li a{
     color: green;
+    font-size: 18px;
 }
