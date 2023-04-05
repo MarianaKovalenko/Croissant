@@ -1,0 +1,26 @@
+body{
+    background: #F8E8A6;
+}
+h1{
+    text-align: center;
+}
+img{
+    display: block;
+    margin: 10px auto;
+    border-radius: 10px;
+}
+p{
+    text-align: center;
+}
+ul{
+    display: block;
+    text-align: center;
+    padding: 0;
+}
+li{
+    display: inline;
+    margin: 0 10px;
+}
+li a{
+    color: green;
+}
